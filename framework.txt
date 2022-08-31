@@ -1,0 +1,5 @@
+1. react icon
+=> npm i react-icons
+
+2. react router
+=> npm i react-router-dom
